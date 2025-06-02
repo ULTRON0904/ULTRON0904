@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkdin (Divakar Sahoo)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I like pizzas
-- 
+- ⚡ Fun fact: I like pizza
 
 <!---
 ULTRON0904/ULTRON0904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
